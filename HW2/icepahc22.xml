@@ -1,0 +1,1003 @@
+<word pos="NOUN" lemma="orsok" />orsok</word>
+<word pos="PRON" lemma="?a?" />?ess</word>
+<word pos="VERB" lemma="tiltelja" />tiltalda</word>
+,	,	PUNCT
+<word pos="ADV" lemma="hvar" />hvar</word>
+<word pos="ADP" lemma="fyrir" />fyrir</word>
+<word pos="PRON" lemma="eg" />mer</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="VERB" lemma="taka" />teki?</word>
+<word pos="NOUN" lemma="blo?" />blo?</word>
+:	:	PUNCT
+
+<word pos="SCONJ" lemma="ef" />Ef</word>
+<word pos="DET" lemma="einhver" />einhverjum</word>
+<word pos="NOUN" lemma="ma?ur" />manni</word>
+<word pos="AUX" lemma="vera" />v?ri</word>
+<word pos="DET" lemma="nokkur" />nokkur</word>
+<word pos="NOUN" lemma="misgjorningur" />misgjorningur</word>
+<word pos="VERB" lemma="yfirbevisa" />yfirbevisa?ur</word>
+,	,	PUNCT
+<word pos="ADV" lemma="svo" />svo</word>
+<word pos="AUX" lemma="vera" />v?ri</word>
+<word pos="PRON" lemma="hann" />honum</word>
+<word pos="ADV" lemma="einasta" />einasta</word>
+<word pos="VERB" lemma="d?ma" />d?md</word>
+<word pos="NOUN" lemma="blo?taka" />blo?taka</word>
+,	,	PUNCT
+<word pos="ADP" lemma="i" />i</word>
+<word pos="NOUN" lemma="sta?ur" />sta?in</word>
+<word pos="ADP" lemma="fyrir" />fyrir</word>
+<word pos="NOUN" lemma="hu?stroka" />hu?strokur</word>
+,	,	PUNCT
+<word pos="NOUN" lemma="fotur" />fota</word>
+<word pos="CCONJ" lemma="e?ur" />e?ur</word>
+<word pos="NOUN" lemma="hond" />handa</word>
+<word pos="NOUN" lemma="afhogg" />afhogg</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="e?ur" />e?ur</word>
+<word pos="NOUN" lemma="afhof?an" />afhof?an</word>
+;	;	PUNCT
+<word pos="PRON" lemma="?a?" />?ess</word>
+<word pos="ADP" lemma="vegna" />vegna</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="a?" />a?</word>
+<word pos="PRON" lemma="hann" />?eir</word>
+<word pos="AUX" lemma="geta" />g?tu</word>
+<word pos="VERB" lemma="sja" />se?</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="hvert" />hvert</word>
+<word pos="NOUN" lemma="misgjorningur" />misgjorningurinn</word>
+<word pos="AUX" lemma="hafa" />hefur</word>
+<word pos="VERB" lemma="ske" />ske?</word>
+<word pos="ADP" lemma="af" />af</word>
+<word pos="NOUN" lemma="mannillska" />mannillsku</word>
+<word pos="CCONJ" lemma="e?ur" />e?ur</word>
+<word pos="ADJ" lemma="sl?mur" />sl?mu</word>
+<word pos="NOUN" lemma="blo?" />blo?i</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADV" lemma="svo" />svo</word>
+<word pos="SCONJ" lemma="hvert" />hvert</word>
+<word pos="NOUN" lemma="misbrotama?ur" />misbrotama?urinn</word>
+<word pos="AUX" lemma="ver?a" />ver?ur</word>
+<word pos="ADV" lemma="ei" />ei</word>
+<word pos="VERB" lemma="lagf?ra" />lagf?r?ur</word>
+<word pos="ADV" lemma="aftur" />aftur</word>
+<word pos="ADP" lemma="me?" />me?</word>
+<word pos="DET" lemma="?essi" />?essu</word>
+<word pos="NOUN" lemma="mot" />moti</word>
+;	;	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADV" lemma="?annig" />?annin</word>
+<word pos="VERB" lemma="laga" />lagar</word>
+<word pos="NOUN" lemma="domari" />domarinn</word>
+<word pos="PRON" lemma="sinn" />sinn</word>
+<word pos="NOUN" lemma="tilgangur" />tilgang</word>
+,	,	PUNCT
+<word pos="DET" lemma="mikill" />meir</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="NOUN" lemma="umbot" />umbotar</word>
+<word pos="ADV" lemma="heldur" />heldur</word>
+<word pos="SCONJ" lemma="en" />en</word>
+<word pos="NOUN" lemma="refsing" />refsingar</word>
+.	.	PUNCT
+
+<word pos="ADV" lemma="?o" />?o</word>
+<word pos="ADV" lemma="samt" />samt</word>
+<word pos="VERB" lemma="innifela" />innifelur</word>
+<word pos="DET" lemma="?essi" />?essi</word>
+<word pos="NOUN" lemma="forbetrun" />forbetrun</word>
+<word pos="DET" lemma="nokkur" />nokkurs</word>
+<word pos="NOUN" lemma="konar" />konar</word>
+<word pos="NOUN" lemma="refsing" />refsing</word>
+<word pos="ADP" lemma="i" />i</word>
+<word pos="PRON" lemma="sig" />ser</word>
+,	,	PUNCT
+<word pos="PRON" lemma="?a?" />?vi</word>
+<word pos="PRON" lemma="?a?" />?a?</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="NOUN" lemma="skomm" />skomm</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="ef" />ef</word>
+<word pos="DET" lemma="nokkur" />nokkur</word>
+<word pos="VERB" lemma="?urfa" />?yrfti</word>
+<word pos="PART" lemma="a?" />a?</word>
+<word pos="VERB" lemma="lata" />lata</word>
+<word pos="VERB" lemma="opna" />opna</word>
+<word pos="PRON" lemma="sig" />ser</word>
+<word pos="NOUN" lemma="??" />??ur</word>
+<word pos="ADP" lemma="eftir" />eftir</word>
+<word pos="NOUN" lemma="domari" />domarans</word>
+<word pos="NOUN" lemma="tilsogn" />tilsogn</word>
+.	.	PUNCT
+
+<word pos="SCONJ" lemma="ef" />Ef</word>
+<word pos="DET" lemma="nokkur" />nokkur</word>
+<word pos="VERB" lemma="forsja" />fors?i</word>
+<word pos="PRON" lemma="sig" />sig</word>
+<word pos="ADP" lemma="i" />i</word>
+<word pos="ADJ" lemma="annar" />anna?</word>
+<word pos="NOUN" lemma="sinn" />sinn</word>
+,	,	PUNCT
+<word pos="ADV" lemma="?a" />?a</word>
+<word pos="AUX" lemma="vera" />v?ri</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="VERB" lemma="utiloka" />utiloka?ur</word>
+<word pos="ADP" lemma="fra" />fra</word>
+<word pos="ADJ" lemma="borgaralegur" />borgaralegum</word>
+<word pos="NOUN" lemma="rettur" />retti</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="NOUN" lemma="samfelag" />samfelagi</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="AUX" lemma="vera" />v?ri</word>
+<word pos="ADJ" lemma="vanur" />vant</word>
+<word pos="PART" lemma="a?" />a?</word>
+<word pos="VERB" lemma="senda" />senda</word>
+<word pos="PRON" lemma="hann" />hann</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="PRON" lemma="annar" />annan</word>
+<word pos="ADV" lemma="utlagi" />utlaga</word>
+,	,	PUNCT
+<word pos="ADP" lemma="til" />til</word>
+<word pos="NOUN" lemma="firmamenti" />firmamentisins</word>
+,	,	PUNCT
+<word pos="ADV" lemma="?ar" />?ar</word>
+<word pos="SCONJ" lemma="e?" />e?</word>
+<word pos="DET" lemma="allur" />ollum</word>
+<word pos="AUX" lemma="vera" />er</word>
+<word pos="NOUN" lemma="vi?taka" />vi?taka</word>
+<word pos="VERB" lemma="veita" />veitt</word>
+<word pos="ADP" lemma="an" />an</word>
+<word pos="NOUN" lemma="greinarmunur" />greinarmunar</word>
+.	.	PUNCT
+
+<word pos="CCONJ" lemma="og" />Og</word>
+<word pos="AUX" lemma="skulu" />skal</word>
+<word pos="ADV" lemma="bratt" />bratt</word>
+<word pos="AUX" lemma="ver?a" />ver?a</word>
+<word pos="DET" lemma="mikill" />meir</word>
+<word pos="VERB" lemma="segja" />sagt</word>
+<word pos="ADP" lemma="fra" />fra</word>
+<word pos="NOUN" lemma="utleg?" />utleg?</word>
+<word pos="DET" lemma="?essi" />?essari</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="NOUN" lemma="asigkomulag" />asigkomulagi</word>
+<word pos="PRON" lemma="hun" />hennar</word>
+.	.	PUNCT
+
+<word pos="CCONJ" lemma="en" />En</word>
+<word pos="PRON" lemma="?a?" />?a?</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="a?" />a?</word>
+<word pos="NOUN" lemma="blo?tokuma?ur" />blo?tokuma?urinn</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="PRON" lemma="eg" />mer</word>
+<word pos="AUX" lemma="hafa" />haf?i</word>
+<word pos="NOUN" lemma="mi???" />mi???ina</word>
+<word pos="VERB" lemma="opna" />opna?</word>
+,	,	PUNCT
+<word pos="VERB" lemma="stansa" />stansa?i</word>
+<word pos="ADP" lemma="af" />af</word>
+<word pos="NOUN" lemma="forundran" />forundran</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="?egar" />?egar</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="VERB" lemma="sko?a" />sko?a?i</word>
+<word pos="PRON" lemma="minn" />mitt</word>
+<word pos="NOUN" lemma="blo?" />blo?</word>
+,	,	PUNCT
+<word pos="VERB" lemma="koma" />kom</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="ADP" lemma="af" />af</word>
+<word pos="PRON" lemma="?a?" />?vi</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="a?" />a?</word>
+<word pos="DET" lemma="?essi" />?essa</word>
+<word pos="NOUN" lemma="planeta" />planeta</word>
+<word pos="NOUN" lemma="bui" />buar</word>
+<word pos="AUX" lemma="hafa" />hafa</word>
+<word pos="ADP" lemma="i" />i</word>
+<word pos="NOUN" lemma="sta?ur" />sta?inn</word>
+<word pos="NOUN" lemma="blo?" />blo?s</word>
+<word pos="NOUN" lemma="einslags" />einslags</word>
+<word pos="NOUN" lemma="vokvi" />vokva</word>
+<word pos="ADJ" lemma="hvitur" />hvitan</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="fljota" />fljotandi</word>
+<word pos="ADP" lemma="i" />i</word>
+<word pos="NOUN" lemma="??" />??unum</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="VERB" lemma="halda" />haldinn</word>
+<word pos="AUX" lemma="vera" />er</word>
+<word pos="PRON" lemma="?a?" />?vi</word>
+<word pos="ADJ" lemma="go?ur" />betri</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADJ" lemma="helgur" />helgari</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="AUX" lemma="vera" />er</word>
+<word pos="ADJ" lemma="hvitur" />hvitari</word>
+.	.	PUNCT
+
+<word pos="DET" lemma="allur" />Allt</word>
+<word pos="DET" lemma="?essi" />?etta</word>
+<word pos="VERB" lemma="reyna" />reyndi</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="a?g?ta" />a?g?tti</word>
+<word pos="DET" lemma="hinn" />hi?</word>
+<word pos="ADV" lemma="grandvarlega" />grandvarlegasta</word>
+,	,	PUNCT
+<word pos="ADP" lemma="eftir" />eftir</word>
+<word pos="SCONJ" lemma="?a?" />?a?</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="VERB" lemma="bua" />buinn</word>
+<word pos="PART" lemma="a?" />a?</word>
+<word pos="VERB" lemma="nema" />nema</word>
+<word pos="NOUN" lemma="undirheimamal" />undirheimamali?</word>
+:	:	PUNCT
+
+<word pos="VERB" lemma="taka" />Tok</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="ADV" lemma="?a" />?a</word>
+<word pos="ADV" lemma="si?an" />si?an</word>
+<word pos="PART" lemma="a?" />a?</word>
+<word pos="VERB" lemma="d?ma" />d?ma</word>
+<word pos="DET" lemma="mikill" />miklu</word>
+<word pos="ADV" lemma="mjuklega" />mjuklegar</word>
+<word pos="ADP" lemma="um" />um</word>
+<word pos="DET" lemma="?essi" />?etta</word>
+<word pos="NOUN" lemma="folk" />folk</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="en" />en</word>
+<word pos="ADV" lemma="a?ur" />a?ur</word>
+,	,	PUNCT
+<word pos="PRON" lemma="hver" />hvert</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="AUX" lemma="hafa" />haf?i</word>
+<word pos="DET" lemma="allur" />allt</word>
+<word pos="ADV" lemma="of" />of</word>
+<word pos="DET" lemma="mikill" />miki?</word>
+<word pos="NOUN" lemma="ofyrirsynja" />ofyrirsynju</word>
+<word pos="VERB" lemma="ford?ma" />ford?mt</word>
+.	.	PUNCT
+
+<word pos="CCONJ" lemma="og" />Og</word>
+<word pos="SCONJ" lemma="?o" />?o</word>
+<word pos="PRON" lemma="eg" />mer</word>
+<word pos="ADP" lemma="i" />i</word>
+<word pos="ADJ" lemma="fyrsta" />fyrstunni</word>
+<word pos="VERB" lemma="vir?a" />virtust</word>
+<word pos="NOUN" lemma="tre" />tre</word>
+<word pos="DET" lemma="?essi" />?essi</word>
+<word pos="ADV" lemma="yfri?" />yfri?</word>
+<word pos="ADJ" lemma="heimskur" />heimsk</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADJ" lemma="darlegur" />darleg</word>
+,	,	PUNCT
+<word pos="ADV" lemma="samt" />samt</word>
+<word pos="VERB" lemma="merka" />merkti</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="ADV" lemma="?o" />?o</word>
+<word pos="ADV" lemma="bratt" />bratt</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="a?" />a?</word>
+<word pos="ADP" lemma="hja" />hja</word>
+<word pos="PRON" lemma="?a?" />?eim</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="PART" lemma="a?" />a?</word>
+<word pos="VERB" lemma="finna" />finna</word>
+<word pos="DET" lemma="nokkur" />nokkurn</word>
+<word pos="NOUN" lemma="mannu?leiki" />mannu?leika</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="PRON" lemma="?a?" />?ess</word>
+<word pos="ADP" lemma="vegna" />vegna</word>
+<word pos="VERB" lemma="?urfa" />?yrfti</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="DET" lemma="enginn" />ekkert</word>
+<word pos="ADJ" lemma="hr?ddur" />hr?ddur</word>
+<word pos="PART" lemma="a?" />a?</word>
+<word pos="AUX" lemma="vera" />vera</word>
+<word pos="ADP" lemma="um" />um</word>
+<word pos="NOUN" lemma="lif" />lif</word>
+<word pos="PRON" lemma="minn" />mitt</word>
+.	.	PUNCT
+
+<word pos="CCONJ" lemma="og" />Og</word>
+<word pos="VERB" lemma="styrkja" />styrktist</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="DET" lemma="mikill" />meir</word>
+<word pos="ADP" lemma="i" />i</word>
+<word pos="DET" lemma="sa" />?eirri</word>
+<word pos="NOUN" lemma="von" />von</word>
+,	,	PUNCT
+<word pos="ADV" lemma="?a" />?a</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="VERB" lemma="sja" />sa</word>
+<word pos="PRON" lemma="eg" />mer</word>
+<word pos="VERB" lemma="bera" />borinn</word>
+<word pos="NOUN" lemma="matur" />mat</word>
+<word pos="NUM" lemma="tvisvar" />tvisvar</word>
+<word pos="ADP" lemma="a" />a</word>
+<word pos="NOUN" lemma="dagur" />degi</word>
+<word pos="DET" lemma="hver" />hverjum</word>
+.	.	PUNCT
+
+<word pos="NOUN" lemma="f??a" />F??a</word>
+<word pos="DET" lemma="?essi" />?essi</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="DET" lemma="meira" />mest</word>
+<word pos="NOUN" lemma="epli" />epli</word>
+,	,	PUNCT
+<word pos="NOUN" lemma="urt" />urtir</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="NOUN" lemma="hulstur" />hulstra</word>
+<word pos="NOUN" lemma="avoxtur" />avextir</word>
+;	;	PUNCT
+<word pos="CCONJ" lemma="en" />en</word>
+<word pos="NOUN" lemma="drykkur" />drykkurinn</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="NOUN" lemma="einslags" />einslags</word>
+<word pos="ADJ" lemma="s?tur" />s?tur</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADJ" lemma="?unnur" />?unnur</word>
+<word pos="NOUN" lemma="logur" />logur</word>
+;	;	PUNCT
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="minna" />minnist</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="ADV" lemma="ekki" />eigi</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="a?" />a?</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="AUX" lemma="hafa" />hafi</word>
+<word pos="DET" lemma="nokkur" />nokkurn</word>
+<word pos="NOUN" lemma="timi" />tima</word>
+<word pos="VERB" lemma="bergja" />bergt</word>
+<word pos="ADP" lemma="a" />a</word>
+<word pos="DET" lemma="nokkur" />nokkurri</word>
+<word pos="ADJ" lemma="s?tur" />s?tari</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADJ" lemma="??gilegur" />??gilegri</word>
+<word pos="NOUN" lemma="f??a" />f??u</word>
+.	.	PUNCT
+
+<word pos="NOUN" lemma="sta?ur" />Sta?arins</word>
+<word pos="NOUN" lemma="domari" />domari</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="AUX" lemma="hafa" />haf?i</word>
+<word pos="PRON" lemma="eg" />mig</word>
+<word pos="ADP" lemma="i" />i</word>
+<word pos="NOUN" lemma="var?hald" />var?haldi</word>
+,	,	PUNCT
+<word pos="VERB" lemma="lata" />let</word>
+<word pos="NOUN" lemma="fursti" />furstann</word>
+<word pos="CCONJ" lemma="e?ur" />e?ur</word>
+<word pos="NOUN" lemma="landsherra" />landsherrann</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="VERB" lemma="residera" />residera?i</word>
+<word pos="ADJ" lemma="allskammur" />allskammt</word>
+<word pos="ADP" lemma="fra" />fra</word>
+<word pos="NOUN" lemma="borg" />borg</word>
+<word pos="DET" lemma="?essi" />?essari</word>
+,	,	PUNCT
+<word pos="ADV" lemma="bratt" />bratt</word>
+<word pos="VERB" lemma="vita" />vita</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="a?" />a?</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="PRON" lemma="sig" />sin</word>
+<word pos="AUX" lemma="vera" />v?ri</word>
+<word pos="VERB" lemma="koma" />komi?</word>
+<word pos="DET" lemma="einn" />eitt</word>
+<word pos="ADV" lemma="serdeilis" />serdeilis</word>
+<word pos="ADJ" lemma="skynsemdarfullur" />skynsemdarfullt</word>
+<word pos="NOUN" lemma="dyr" />dyr</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="AUX" lemma="hafa" />hef?i</word>
+<word pos="ADJ" lemma="ovenjulegur" />ovenjulegan</word>
+<word pos="NOUN" lemma="skapna?ur" />skapna?</word>
+.	.	PUNCT
+
+<word pos="NOUN" lemma="nyjungagirni" />Nyjungagirnin</word>
+<word pos="VERB" lemma="reka" />rak</word>
+<word pos="ADP" lemma="eftir" />eftir</word>
+<word pos="NOUN" lemma="fursti" />furstanum</word>
+<word pos="ADV" lemma="svo" />svo</word>
+<word pos="ADV" lemma="mjog" />mjog</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="a?" />a?</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="VERB" lemma="skipa" />skipa?i</word>
+<word pos="PART" lemma="a?" />a?</word>
+<word pos="VERB" lemma="kenna" />kenna</word>
+<word pos="PRON" lemma="eg" />mer</word>
+<word pos="NOUN" lemma="land" />landsins</word>
+<word pos="NOUN" lemma="tungumal" />tungumal</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="senda" />senda</word>
+<word pos="PRON" lemma="eg" />mig</word>
+<word pos="ADV" lemma="si?an" />si?an</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="PRON" lemma="sinn" />sinnar</word>
+<word pos="NOUN" lemma="holl" />hallar</word>
+.	.	PUNCT
+
+<word pos="PRON" lemma="?a?" />?ess</word>
+<word pos="ADP" lemma="vegna" />vegna</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="PRON" lemma="eg" />mer</word>
+<word pos="VERB" lemma="setja" />settur</word>
+<word pos="NOUN" lemma="l?rimeistari" />l?rimeistari</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="nema" />nam</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="ADV" lemma="svo" />svo</word>
+<word pos="DET" lemma="mikill" />miki?</word>
+<word pos="ADP" lemma="undir" />undir</word>
+<word pos="PRON" lemma="hann" />hans</word>
+<word pos="NOUN" lemma="tilsogn" />tilsogn</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="a?" />a?</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="AUX" lemma="geta" />gat</word>
+<word pos="ADP" lemma="a" />a</word>
+<word pos="NUM" lemma="halfur" />halfs</word>
+<word pos="NOUN" lemma="ar" />ars</word>
+<word pos="NOUN" lemma="timi" />tima</word>
+<word pos="ADV" lemma="rett" />rett</word>
+<word pos="ADV" lemma="fljott" />fljott</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADV" lemma="skiljanlega" />skiljanlega</word>
+<word pos="VERB" lemma="tala" />tala?</word>
+<word pos="ADP" lemma="vi?" />vi?</word>
+<word pos="NOUN" lemma="innbyggjandi" />innbyggjendurnar</word>
+.	.	PUNCT
+
+<word pos="ADP" lemma="eftir" />Eftir</word>
+<word pos="SCONJ" lemma="?a?" />?a?</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="VERB" lemma="bua" />buinn</word>
+<word pos="PART" lemma="a?" />a?</word>
+<word pos="VERB" lemma="afleggja" />afleggja</word>
+<word pos="NOUN" lemma="barnaskor" />barnaskona</word>
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="ADV" lemma="svo" />svo</word>
+<word pos="AUX" lemma="vera" />er</word>
+<word pos="VERB" lemma="kalla" />kalla?</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="e?ur" />e?ur</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="VERB" lemma="ver?a" />or?inn</word>
+<word pos="ADJ" lemma="fullnuma" />fullnuma</word>
+<word pos="ADP" lemma="i" />i</word>
+<word pos="NOUN" lemma="undirheimamal" />undirheimamalinu</word>
+,	,	PUNCT
+<word pos="VERB" lemma="koma" />kom</word>
+<word pos="ADJ" lemma="nyr" />ny</word>
+<word pos="NOUN" lemma="skipan" />skipan</word>
+<word pos="ADP" lemma="fra" />fra</word>
+<word pos="NOUN" lemma="konungsgar?ur" />konungsgar?inum</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="a?" />a?</word>
+<word pos="PRON" lemma="eg" />mer</word>
+<word pos="AUX" lemma="skulu" />skyldi</word>
+<word pos="DET" lemma="mikill" />meir</word>
+<word pos="VERB" lemma="kenna" />kenna</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="inntaka" />inntaka</word>
+<word pos="PRON" lemma="eg" />mig</word>
+<word pos="ADP" lemma="i" />i</word>
+<word pos="NOUN" lemma="sta?ur" />sta?arins</word>
+<word pos="X" lemma="seminarium" />seminarium</word>
+<word pos="CCONJ" lemma="e?ur" />e?ur</word>
+<word pos="NOUN" lemma="haskoli" />haskola</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="ADJ" lemma="ymislegur" />ymislegra</word>
+<word pos="NOUN" lemma="kunst" />kunsta</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="NOUN" lemma="emb?tti" />emb?tta</word>
+,	,	PUNCT
+<word pos="ADP" lemma="svo" />svo</word>
+<word pos="SCONJ" lemma="a?" />a?</word>
+<word pos="ADJ" lemma="?arverandi" />?arverandi</word>
+<word pos="X" lemma="karatti" />Karatti</word>
+<word pos="AUX" lemma="geta" />g?tu</word>
+<word pos="VERB" lemma="rannsaka" />rannsaka?</word>
+<word pos="PRON" lemma="minn" />minar</word>
+<word pos="NOUN" lemma="sinnisgafa" />sinnisgafur</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="urskur?a" />urskur?a?</word>
+,	,	PUNCT
+<word pos="ADP" lemma="til" />til</word>
+<word pos="PRON" lemma="hver" />hvers</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="AUX" lemma="munu" />mundi</word>
+<word pos="ADV" lemma="vel" />best</word>
+<word pos="ADJ" lemma="h?fur" />h?fur</word>
+<word pos="AUX" lemma="vera" />vera</word>
+.	.	PUNCT
+
+<word pos="NOUN" lemma="skipan" />Skipan</word>
+<word pos="DET" lemma="?essi" />?essari</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="VERB" lemma="framfylgja" />framfylgt</word>
+<word pos="DET" lemma="hinn" />hi?</word>
+<word pos="ADV" lemma="kostg?filega" />kostg?filegasta</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADP" lemma="um" />um</word>
+<word pos="DET" lemma="sa" />?ann</word>
+<word pos="NOUN" lemma="timi" />tima</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="ADV" lemma="her" />her</word>
+<word pos="VERB" lemma="dvelja" />dvaldi</word>
+,	,	PUNCT
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="ADV" lemma="ei" />ei</word>
+<word pos="ADV" lemma="alleinasta" />alleinasta</word>
+<word pos="VERB" lemma="sorga" />sorga?</word>
+<word pos="ADP" lemma="fyrir" />fyrir</word>
+<word pos="PRON" lemma="minn" />minu</word>
+<word pos="NOUN" lemma="sinn" />sinni</word>
+,	,	PUNCT
+<word pos="ADV" lemma="heldur" />heldur</word>
+<word pos="ADV" lemma="og" />og</word>
+<word pos="NOUN" lemma="likami" />likama</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="NOUN" lemma="atvinna" />atvinnu</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="hafa" />hof?u</word>
+<word pos="NOUN" lemma="eik" />eikurnar</word>
+<word pos="ADV" lemma="heldur" />helst</word>
+<word pos="ADP" lemma="um" />um</word>
+<word pos="PRON" lemma="?a?" />?a?</word>
+<word pos="PART" lemma="a?" />a?</word>
+<word pos="VERB" lemma="sysla" />sysla</word>
+,	,	PUNCT
+<word pos="ADV" lemma="hversu" />hversu</word>
+<word pos="PRON" lemma="hun" />??r</word>
+<word pos="AUX" lemma="geta" />g?ti</word>
+<word pos="VERB" lemma="gera" />gjort</word>
+<word pos="PRON" lemma="eg" />mig</word>
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="ADJ" lemma="likur" />likastan</word>
+<word pos="DET" lemma="einn" />einni</word>
+<word pos="NOUN" lemma="eik" />eik</word>
+,	,	PUNCT
+<word pos="ADP" lemma="a?" />a?</word>
+<word pos="ADV" lemma="svo" />svo</word>
+<word pos="DET" lemma="mikill" />miklu</word>
+<word pos="NOUN" lemma="leyti" />leyti</word>
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="ADJ" lemma="mogulegur" />moguleg</word>
+<word pos="AUX" lemma="vera" />var</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADP" lemma="i" />i</word>
+<word pos="DET" lemma="sa" />?vi</word>
+<word pos="NOUN" lemma="skyn" />skyni</word>
+<word pos="AUX" lemma="vera" />voru</word>
+<word pos="ADV" lemma="og" />og</word>
+<word pos="ADV" lemma="einnig" />einnin</word>
+<word pos="VERB" lemma="klina" />klindar</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="festa" />festar</word>
+<word pos="ADP" lemma="a" />a</word>
+<word pos="PRON" lemma="eg" />mig</word>
+<word pos="DET" lemma="nokkur" />nokkrar</word>
+<word pos="VERB" lemma="tilsmi?a" />tilsmi?a?ar</word>
+<word pos="NOUN" lemma="gera" />gior?ar</word>
+<word pos="NOUN" lemma="grein" />greinir</word>
+.	.	PUNCT
+
+<word pos="SCONJ" lemma="me?an" />Me?an</word>
+<word pos="DET" lemma="?essi" />?etta</word>
+<word pos="VERB" lemma="framfara" />framfor</word>
+<word pos="ADV" lemma="?annig" />?annin</word>
+,	,	PUNCT
+<word pos="VERB" lemma="hafa" />haf?i</word>
+<word pos="PRON" lemma="minn" />minn</word>
+<word pos="NOUN" lemma="husbondi" />husbondi</word>
+<word pos="ADP" lemma="i" />i</word>
+<word pos="ADV" lemma="frammi" />frammi</word>
+<word pos="ADP" lemma="vi?" />vi?</word>
+<word pos="PRON" lemma="eg" />mig</word>
+<word pos="DET" lemma="allur" />allra</word>
+<word pos="NOUN" lemma="hond" />handa</word>
+<word pos="NOUN" lemma="spursmal" />spursmal</word>
+<word pos="ADP" lemma="a" />a</word>
+<word pos="NOUN" lemma="kvold" />kvoldin</word>
+<word pos="NOUN" lemma="alti?" />alti?</word>
+,	,	PUNCT
+<word pos="ADV" lemma="?a" />?a</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="VERB" lemma="koma" />kom</word>
+<word pos="ADP" lemma="af" />af</word>
+<word pos="X" lemma="seminario" />seminario</word>
+.	.	PUNCT
+
+<word pos="PRON" lemma="hann" />Honum</word>
+<word pos="VERB" lemma="lika" />lika?i</word>
+<word pos="ADV" lemma="yfri?" />yfri?</word>
+<word pos="ADV" lemma="vel" />vel</word>
+<word pos="PART" lemma="a?" />a?</word>
+<word pos="VERB" lemma="heyra" />heyra</word>
+,	,	PUNCT
+<word pos="ADV" lemma="?a" />?a</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="VERB" lemma="greina" />greindi</word>
+<word pos="PRON" lemma="hann" />honum</word>
+<word pos="PRON" lemma="hver" />hva?</word>
+<word pos="PRON" lemma="eg" />mig</word>
+<word pos="AUX" lemma="hafa" />haf?i</word>
+<word pos="VERB" lemma="henda" />hent</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADP" lemma="fyrir" />fyrir</word>
+<word pos="PRON" lemma="eg" />mig</word>
+<word pos="AUX" lemma="hafa" />haf?i</word>
+<word pos="VERB" lemma="bera" />bori?</word>
+<word pos="ADP" lemma="a" />a</word>
+<word pos="DET" lemma="?essi" />?essari</word>
+<word pos="PRON" lemma="minn" />minni</word>
+<word pos="NOUN" lemma="undirheimur" />undirheima</word>
+<word pos="NOUN" lemma="fer?areisa" />fer?areisu</word>
+.	.	PUNCT
+
+<word pos="DET" lemma="meira" />Mest</word>
+<word pos="VERB" lemma="undra" />undra?ist</word>
+<word pos="PRON" lemma="hann" />hann</word>
+,	,	PUNCT
+<word pos="ADV" lemma="?a" />?a</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="VERB" lemma="skyra" />skyr?i</word>
+<word pos="PRON" lemma="hann" />honum</word>
+<word pos="ADP" lemma="fra" />fra</word>
+<word pos="PRON" lemma="vor" />vorri</word>
+<word pos="ADJ" lemma="efri" />efri</word>
+<word pos="NOUN" lemma="jor?" />jor?u</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="DET" lemma="sa" />?eirri</word>
+<word pos="ADJ" lemma="om?lanlegur" />om?lanlegri</word>
+<word pos="NOUN" lemma="vi?atta" />vi?attu</word>
+<word pos="NOUN" lemma="himinn" />himinsins</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="ADP" lemma="um" />um</word>
+<word pos="PRON" lemma="hun" />hana</word>
+<word pos="VERB" lemma="liggja" />l?gi</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="AUX" lemma="vera" />v?ri</word>
+<word pos="VERB" lemma="uppfylla" />uppfylltur</word>
+<word pos="ADP" lemma="me?" />me?</word>
+<word pos="ADJ" lemma="oteljandi" />oteljandi</word>
+<word pos="NOUN" lemma="stjarna" />stjornum</word>
+.	.	PUNCT
+
+<word pos="ADP" lemma="a" />A</word>
+<word pos="DET" lemma="allur" />allt</word>
+<word pos="DET" lemma="?essi" />?etta</word>
+<word pos="VERB" lemma="heyra" />heyr?i</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="ADP" lemma="me?" />me?</word>
+<word pos="DET" lemma="mikill" />mikilli</word>
+<word pos="NOUN" lemma="gaumg?fni" />gaumg?fni</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="NOUN" lemma="eftirlangan" />eftirlangan</word>
+;	;	PUNCT
+<word pos="CCONJ" lemma="en" />en</word>
+<word pos="ADP" lemma="vi?" />vi?</word>
+<word pos="PRON" lemma="?a?" />?a?</word>
+<word pos="VERB" lemma="ver?a" />var?</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="DET" lemma="nokkur" />nokku?</word>
+<word pos="ADJ" lemma="skammrau?ur" />skammrau?ur</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="VERB" lemma="fortelja" />fortaldi</word>
+<word pos="PRON" lemma="hann" />honum</word>
+<word pos="ADP" lemma="um" />um</word>
+<word pos="NOUN" lemma="tre" />tren</word>
+<word pos="ADP" lemma="a" />a</word>
+<word pos="PRON" lemma="vor" />vorum</word>
+<word pos="NOUN" lemma="jar?arbotn" />jar?arbotni</word>
+;	;	PUNCT
+<word pos="ADV" lemma="nefnilega" />nefnilega</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="a?" />a?</word>
+<word pos="PRON" lemma="?a?" />?au</word>
+<word pos="AUX" lemma="vera" />v?ri</word>
+<word pos="ADJ" lemma="salarlaus" />salarlaus</word>
+,	,	PUNCT
+<word pos="ADJ" lemma="hr?ringarlaus" />hr?ringarlaus</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="standa" />st??u</word>
+<word pos="ADV" lemma="fast" />fast</word>
+<word pos="VERB" lemma="rotsetja" />rotsett</word>
+<word pos="ADP" lemma="i" />i</word>
+<word pos="NOUN" lemma="jor?" />jor?unni</word>
+:	:	PUNCT
+
+<word pos="CCONJ" lemma="en" />En</word>
+<word pos="ADV" lemma="einkanlega" />einkanlega</word>
+<word pos="VERB" lemma="lita" />leit</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="PRON" lemma="eg" />min</word>
+<word pos="ADV" lemma="mjog" />mjog</word>
+<word pos="ADV" lemma="rei?uglega" />rei?uglega</word>
+,	,	PUNCT
+<word pos="ADV" lemma="?a" />?a</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="VERB" lemma="segja" />sag?i</word>
+<word pos="PRON" lemma="hann" />honum</word>
+<word pos="ADP" lemma="fyrir" />fyrir</word>
+<word pos="ADJ" lemma="vis" />vist</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="a?" />a?</word>
+<word pos="PRON" lemma="vor" />vor</word>
+<word pos="NOUN" lemma="tre" />tre</word>
+<word pos="AUX" lemma="vera" />v?ru</word>
+<word pos="VERB" lemma="fella" />feld</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="AUX" lemma="hafa" />hof?</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="PART" lemma="a?" />a?</word>
+<word pos="VERB" lemma="heita" />heita</word>
+<word pos="ADP" lemma="me?" />me?</word>
+<word pos="NOUN" lemma="ofn" />ofna</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="bua" />bua</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="NOUN" lemma="matur" />matar</word>
+<word pos="NOUN" lemma="vi?ur" />vi?</word>
+.	.	PUNCT
+
+<word pos="CCONJ" lemma="en" />En</word>
+<word pos="ADV" lemma="?a" />?a</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="VERB" lemma="a?g?ta" />a?g?tti</word>
+<word pos="DET" lemma="?essi" />?etta</word>
+<word pos="ADP" lemma="me?" />me?</word>
+<word pos="ADJ" lemma="rettur" />rettri</word>
+<word pos="NOUN" lemma="alvara" />alvoru</word>
+,	,	PUNCT
+<word pos="VERB" lemma="lata" />let</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="NOUN" lemma="rei?i" />rei?ina</word>
+<word pos="DET" lemma="nokkur" />nokku?</word>
+<word pos="VERB" lemma="falla" />falla</word>
+,	,	PUNCT
+<word pos="VERB" lemma="retta" />retti</word>
+<word pos="ADP" lemma="upp" />upp</word>
+<word pos="PRON" lemma="sinn" />sinar</word>
+<word pos="NUM" lemma="fimm" />fimm</word>
+<word pos="NOUN" lemma="grein" />greinir</word>
+<word pos="PRON" lemma="?a?" />?vi</word>
+<word pos="ADV" lemma="svo" />svo</word>
+<word pos="DET" lemma="margur" />margar</word>
+<word pos="AUX" lemma="hafa" />haf?i</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="NOUN" lemma="mot" />moti</word>
+<word pos="NOUN" lemma="himinn" />himninum</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="undra" />undra?ist</word>
+<word pos="ADP" lemma="yfir" />yfir</word>
+<word pos="NOUN" lemma="skapari" />skaparans</word>
+<word pos="NOUN" lemma="domur" />domum</word>
+,	,	PUNCT
+<word pos="PRON" lemma="hver" />hverra</word>
+<word pos="NOUN" lemma="orsok" />orsakir</word>
+<word pos="AUX" lemma="vera" />v?ri</word>
+<word pos="VERB" lemma="hylja" />huldar</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADJ" lemma="margbreyttur" />margbreyttar</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="heyra" />heyr?i</word>
+<word pos="PRON" lemma="eg" />mig</word>
+<word pos="ADV" lemma="framvegis" />framvegis</word>
+<word pos="ADP" lemma="me?" />me?</word>
+<word pos="ADJ" lemma="go?ur" />go?ri</word>
+<word pos="NOUN" lemma="athygli" />athygli</word>
+.	.	PUNCT
+
+<word pos="PRON" lemma="hann" />Hans</word>
+<word pos="NOUN" lemma="kona" />kona</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="ADV" lemma="hinga?" />hinga?</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="AUX" lemma="hafa" />haf?i</word>
+<word pos="VERB" lemma="for?ast" />for?ast</word>
+<word pos="PRON" lemma="minn" />mina</word>
+<word pos="NOUN" lemma="nal?g?" />nal?g?</word>
+,	,	PUNCT
+<word pos="VERB" lemma="stilla" />stilltist</word>
+<word pos="ADV" lemma="nu" />nu</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="NOUN" lemma="fri?ur" />fri?ar</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="lata" />let</word>
+<word pos="DET" lemma="allur" />allan</word>
+<word pos="ADJ" lemma="rangur" />rangan</word>
+<word pos="NOUN" lemma="mis?anki" />mis?anka</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="PRON" lemma="eg" />min</word>
+<word pos="VERB" lemma="fara" />fara</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="?egar" />?egar</word>
+<word pos="PRON" lemma="hun" />hun</word>
+<word pos="VERB" lemma="vita" />vissi</word>
+<word pos="DET" lemma="sa" />?a</word>
+<word pos="ADJ" lemma="rettur" />rettu</word>
+<word pos="NOUN" lemma="orsok" />orsok</word>
+,	,	PUNCT
+<word pos="ADV" lemma="hvar" />var</word>
+<word pos="ADP" lemma="fyrir" />fyrir</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="VERB" lemma="draga" />dreginn</word>
+<word pos="ADP" lemma="undir" />undir</word>
+<word pos="NOUN" lemma="domur" />dom</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="PRON" lemma="?a?" />?a?</word>
+<word pos="PRON" lemma="eg" />mig</word>
+<word pos="AUX" lemma="hafa" />haf?i</word>
+<word pos="VERB" lemma="pretta" />pretta?</word>
+<word pos="NOUN" lemma="liking" />liking</word>
+<word pos="NOUN" lemma="eik" />eikarinnar</word>
+,	,	PUNCT
+<word pos="ADP" lemma="upp" />upp</word>
+<word pos="ADP" lemma="a" />a</word>
+<word pos="PRON" lemma="hver" />hverjar</word>
+<word pos="PRON" lemma="eg" />ver</word>
+<word pos="AUX" lemma="vera" />erum</word>
+<word pos="ADJ" lemma="vanur" />vanir</word>
+<word pos="PART" lemma="a?" />a?</word>
+<word pos="VERB" lemma="klifra" />klifrast</word>
+<word pos="ADP" lemma="a" />a</word>
+<word pos="PRON" lemma="vor" />vorri</word>
+<word pos="NOUN" lemma="jor?" />jor?u</word>
+.	.	PUNCT
+
+<word pos="PRON" lemma="eg" />Eg</word>
+<word pos="VERB" lemma="tala" />tala?i</word>
+<word pos="ADV" lemma="aldrei" />aldrei</word>
+<word pos="ADP" lemma="vi?" />vi?</word>
+<word pos="PRON" lemma="hun" />hana</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="nema" />nema</word>
+<word pos="ADP" lemma="i" />i</word>
+<word pos="NOUN" lemma="vi?urvist" />vi?urvist</word>
+<word pos="PRON" lemma="hun" />hennar</word>
+<word pos="NOUN" lemma="bondi" />bonda</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADP" lemma="eftir" />eftir</word>
+<word pos="PRON" lemma="hann" />hans</word>
+<word pos="NOUN" lemma="skipan" />skipan</word>
+,	,	PUNCT
+<word pos="ADP" lemma="til" />til</word>
+<word pos="PRON" lemma="?a?" />?ess</word>
+<word pos="SCONJ" lemma="a?" />a?</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="AUX" lemma="skulu" />skyldi</word>
+<word pos="ADV" lemma="ei" />ei</word>
+<word pos="VERB" lemma="upprifa" />upprifa</word>
+<word pos="DET" lemma="sa" />??r</word>
+<word pos="ADJ" lemma="nyr" />nyju</word>
+<word pos="ADV" lemma="undir" />undir</word>
+<word pos="ADP" lemma="a" />a</word>
+<word pos="DET" lemma="sa" />?eirri</word>
+<word pos="NOUN" lemma="forlikun" />forlikun</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="AUX" lemma="hafa" />haf?i</word>
+<word pos="ADP" lemma="fyrir" />fyrir</word>
+<word pos="ADV" lemma="svo" />svo</word>
+<word pos="ADJ" lemma="skammur" />skommu</word>
+<word pos="VERB" lemma="o?last" />o?last</word>
+.	.	PUNCT
+
+<word pos="NOUN" lemma="kapituli" />Kapituli</word>
+<word pos="ADJ" lemma="?ri?ji" />?ri?ji</word>
+.	.	PUNCT
+<word pos="NOUN" lemma="utskyring" />Utskyring</word>
+<word pos="ADP" lemma="um" />um</word>
+<word pos="NOUN" lemma="sta?ur" />sta?inn</word>
+<word pos="PROPN" lemma="keba" />Keba</word>
+.	.	PUNCT
+
+<word pos="SCONJ" lemma="me?an" />Me?an</word>
+<word pos="PRON" lemma="eg" />eg</word>
+<word pos="VERB" lemma="ver?a" />var?</word>
+<word pos="PART" lemma="a?" />a?</word>
+<word pos="VERB" lemma="lata" />lata</word>
+<word pos="VERB" lemma="kenna" />kenna</word>
+<word pos="PRON" lemma="eg" />mer</word>
+<word pos="ADP" lemma="i" />i</word>
+<word pos="X" lemma="seminario" />seminario</word>
+,	,	PUNCT
+<word pos="VERB" lemma="f?ra" />f?r?i</word>
+<word pos="PRON" lemma="minn" />minn</word>
+<word pos="NOUN" lemma="gistingarhussbondi" />gistingarhussbondi</word>
+<word pos="PRON" lemma="eg" />mig</word>
+<word pos="ADP" lemma="i" />i</word>
+<word pos="ADP" lemma="gegnum" />gegnum</word>
+<word pos="NOUN" lemma="borg" />borgina</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="?egar" />?egar</word>
+<word pos="NOUN" lemma="hentugleiki" />hentugleiki</word>
+<word pos="VERB" lemma="falla" />fell</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="syna" />syndi</word>
+<word pos="PRON" lemma="eg" />mer</word>
+<word pos="DET" lemma="sa" />?a?</word>
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="ADV" lemma="heldur" />helst</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="ADJ" lemma="ver?ur" />vert</word>
+<word pos="PART" lemma="a?" />a?</word>
+<word pos="VERB" lemma="sko?a" />sko?a</word>
+<word pos="CCONJ" lemma="og" />oc</word>
+<word pos="VERB" lemma="skynja" />skynja</word>
+.	.	PUNCT
+
+<word pos="PRON" lemma="eg" />Vi?</word>
+<word pos="VERB" lemma="ganga" />gengum</word>
+<word pos="DET" lemma="hver" />hver</word>
+<word pos="ADP" lemma="me?" />me?</word>
+<word pos="PRON" lemma="annar" />o?rum</word>
+<word pos="ADJ" lemma="hindrunarlaus" />hindrunarlaust</word>
+<word pos="ADP" lemma="um" />um</word>
+<word pos="DET" lemma="allur" />allar</word>
+<word pos="NOUN" lemma="tryssa" />tryssur</word>
+,	,	PUNCT
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="PRON" lemma="?a?" />?a?</word>
+<word pos="ADP" lemma="an" />an</word>
+<word pos="DET" lemma="allur" />alls</word>
+<word pos="NOUN" lemma="tilhlaup" />tilhlaups</word>
+<word pos="ADP" lemma="af" />af</word>
+<word pos="NOUN" lemma="innbyggjandi" />innbyggjendunum</word>
+,	,	PUNCT
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="PRON" lemma="eg" />mig</word>
+<word pos="ADV" lemma="meira" />mest</word>
+<word pos="VERB" lemma="fur?a" />fur?a?i</word>
+:	:	PUNCT
+<word pos="PRON" lemma="?a?" />?vi</word>
+<word pos="PRON" lemma="?a?" />?a?</word>
+
+(\w+)\s+(\w+)\s+(\w+)$ (выделение трех элементов строки для поиска по всему файлу)
+$3 $2 $1 (поменяла порядок слов в строках), <word pos="\1" lemma="\2" />\3</word> (добавила нужные символы к элементам строк)
